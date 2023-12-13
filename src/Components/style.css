@@ -13,7 +13,6 @@ img{
 }
 
 .logo:hover{
-    /* box-shadow: ; */
     border: 2px solid cyan;
     box-shadow: 0 0 7px 2px cyan;
 }
